@@ -1,0 +1,25 @@
+{
+  "id": "neodex.motion",
+  "name": "Motion",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "description": "L'animateur : formes, textes et images animés par images clés sur une timeline (position, échelle, rotation, opacité, flou, couleur), 12 effets tout prêts, accélérations réglables, export en vidéo WebM, en HTML/CSS ou en PNG. Et l'éditeur de courbes : Bézier ou ressort, comparées côte à côte, CSS prêt à copier. Timeline plus grande (rangées, règle, noms et images clés plus faciles à viser), textes plus grands, et la scène grandit avec l'écran tout en laissant voir la timeline.",
+  "icon": "icon.png",
+  "entry": "index.js",
+  "view": "motion",
+  "neobase": ">=4.0.0",
+  "type": "app",
+  "category": "Outils",
+  "mobile": true,
+  "compatibility": [
+    "android"
+  ],
+  "syncMode": "fusion",
+  "syncInfo": "Les 3 courbes, la durée et tes préréglages gardés.",
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [
+    "storage"
+  ]
+}
