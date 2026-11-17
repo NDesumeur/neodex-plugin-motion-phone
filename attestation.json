@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.motion",
+  "repo": "NDesumeur/neodex-plugin-motion-phone",
+  "version": "1.0.0",
+  "sha256": "79541e67a94ca79cdb11672e4338e1a1162d9119e6317c4f1b994b12096ace6e",
+  "approvedAt": "2026-11-17T18:40:03.202Z",
+  "neobase": ">=4.0.0",
+  "signature": "T+6PzAiQjA2AIsrC0KOvzLq2L14L08J0CzQ6yPjfO1BwQQMhkKe7RYGNSzOovkYYWORn6oSD3eieNct1ucF5BQ=="
+}
